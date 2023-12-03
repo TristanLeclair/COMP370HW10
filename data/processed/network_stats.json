@@ -1,0 +1,58 @@
+{
+    "degree": [
+        [
+            "twilight sparkle",
+            0.78125
+        ],
+        [
+            "rainbow dash",
+            0.7291666666666666
+        ],
+        [
+            "applejack",
+            0.6979166666666666
+        ]
+    ],
+    "weighted_degree": [
+        [
+            "twilight sparkle",
+            3835
+        ],
+        [
+            "rainbow dash",
+            2382
+        ],
+        [
+            "applejack",
+            2289
+        ]
+    ],
+    "closeness": [
+        [
+            "twilight sparkle",
+            0.8205128205128205
+        ],
+        [
+            "rainbow dash",
+            0.7868852459016393
+        ],
+        [
+            "applejack",
+            0.768
+        ]
+    ],
+    "betweenness": [
+        [
+            "twilight sparkle",
+            0.14912029635167304
+        ],
+        [
+            "rainbow dash",
+            0.13905296448949636
+        ],
+        [
+            "applejack",
+            0.10985554090690386
+        ]
+    ]
+}
